@@ -19,7 +19,7 @@ Step 2
 Use 'Module Loader' on your SuiteCRM to install the module
 ```
 
-When you export Contacts records, you can see the 'Opted Out' column on CSV.
+Enable the Calls and Meetings from the Activity Stream Dashlet drop-down
 
 ## Authors
 
